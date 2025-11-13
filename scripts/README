@@ -1,0 +1,18 @@
+
+-------------------------------Backup.js-------------------------------
+São criados ficheiros, cada um contém uma coleção do firebase.
+
+Para cria-los, executar:
+node backup.js
+
+AVISO: PARA ATUALIZAR REMOVER ANTES OS FICHEIROS DA PASTA 
+-----------------------------------------------------------------------
+
+------------------------------Restore.js-------------------------------
+Aqui são repostos os backups diretamente no firebase, por padrão são 
+repostos todos os ficheiros, mas se for necessário apenas 1 escolher no 
+restore as coleções necessárias
+
+Para repo-los, executar:
+node restore.js
+-----------------------------------------------------------------------

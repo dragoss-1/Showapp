@@ -1,0 +1,39 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-xs{
+    font-size: .50rem;
+    line-height: 0.4rem;
+}
+.font-bold{
+    font-weight: 500;
+}
+.text-\[14px\] {
+    font-size: 10px;
+}
+.h-\[10px\] {
+    height: 18px;
+}
+.w-16 {
+    width: 3.7rem;
+}
+.h-5 {
+    height: 1.35rem;
+}
+.w-5 {
+    width: 1.35rem; 
+}
+.mb-1 {
+    margin-bottom: 0.20rem;
+}
+.sticker-wrapper {
+  zoom: 2; /* aumenta 2x só no ecrã */
+}
+
+@media print {
+  .sticker-wrapper {
+    zoom: 1 !important; /* reset no modo impressão */
+  }
+}
