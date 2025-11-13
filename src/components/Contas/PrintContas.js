@@ -111,9 +111,9 @@ useEffect(() => {
                 <img src="/logo.png" alt="Logo" className="w-40 mb-4" />
                 <div className="mb-4 flex-1">
                     <h2 className="text-lg font-semibold"><strong>Mecânico</strong></h2>
-                    <p><strong>Nome: </strong> Viorel Ariton</p>
-                    <p><strong>Email: </strong> vio.ar.auto@gmail.com</p>
-                    <p><strong>Telemóvel: </strong> 968403335</p>
+                    <p><strong>Nome: </strong> José</p>
+                    <p><strong>Email: </strong> mecanico@gmail.com</p>
+                    <p><strong>Telemóvel: </strong> 96*******</p>
                 </div>
             </div>
             <h1 className="text-2xl font-bold mb-4">Detalhes do Serviço</h1>

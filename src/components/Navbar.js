@@ -76,7 +76,7 @@ const Navbar = () => {
                         className="h-10 mr-2 rounded-lg ring-2 ring-red-500 ring-offset-4 ring-offset-slate-50 dark:ring-offset-slate-900"
                     />
                     <h1 className="ml-2 text-2xl font-bold">
-                        <a href="/">Ariton</a>
+                        <a href="/">Oficina</a>
                     </h1>
                 </div>
 
